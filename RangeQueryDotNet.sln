@@ -1,0 +1,22 @@
+
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeQueryDotNet.AspNetCore", "RangeQueryDotNet.AspNetCore\RangeQueryDotNet.AspNetCore.csproj", "{0F807153-763C-4AA9-BB62-8E47E2B727D1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeQueryDotNet.AspNetCore.Tests", "RangeQueryDotNet.AspNetCore.Tests\RangeQueryDotNet.AspNetCore.Tests.csproj", "{A1691162-0806-4B66-BD3C-F0F8C85D9F92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "RangeQueryDotNet.Example", "RangeQueryDotNet.Example\RangeQueryDotNet.Example.csproj", "{57E65C8E-A9D8-49E3-B057-4168E5D99816}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0F807153-763C-4AA9-BB62-8E47E2B727D1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0F807153-763C-4AA9-BB62-8E47E2B727D1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A1691162-0806-4B66-BD3C-F0F8C85D9F92}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A1691162-0806-4B66-BD3C-F0F8C85D9F92}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{57E65C8E-A9D8-49E3-B057-4168E5D99816}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{57E65C8E-A9D8-49E3-B057-4168E5D99816}.Debug|Any CPU.Build.0 = Debug|Any CPU
+	EndGlobalSection
+EndGlobal
